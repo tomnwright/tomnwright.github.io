@@ -144,7 +144,7 @@ p {
 h1 {
 	margin-bottom:5px;
 }
-h3 {
+#subtitle {
 	margin-bottom:5px;
 	color:var(--blue);
 }
@@ -165,6 +165,7 @@ h4 {
 	line-height: 100%;
 	border: 3px solid black;
 	font-weight:bold;
+	color:dodgerblue;
 }
 
 .clickable-btn {
